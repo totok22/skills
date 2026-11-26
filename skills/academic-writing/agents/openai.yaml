@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Writing"
+  short_description: "Proofread, polish, rewrite, translate, draft, and review academic and technical writing"
+  default_prompt: "Use $academic-writing to improve, translate, draft, or review the supplied text for its audience and genre while preserving meaning, evidence strength, and author intent."

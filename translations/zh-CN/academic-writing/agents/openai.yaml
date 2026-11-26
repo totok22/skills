@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术与专业写作"
+  short_description: "中英文学术论文与技术文档的校对、润色、改写、翻译、起草与审阅"
+  default_prompt: "Use $academic-writing to improve, translate, draft, or review the supplied text for its audience and genre while preserving meaning, evidence strength, and author intent."

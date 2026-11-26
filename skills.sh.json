@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "学术与专业写作",
+      "description": "面向中英文学术论文、技术报告、审稿回复与笔记整理写作的 Skills。",
+      "skills": [
+        "academic-writing"
+      ]
+    }
+  ]
+}

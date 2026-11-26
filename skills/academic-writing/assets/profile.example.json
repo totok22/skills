@@ -1,0 +1,59 @@
+{
+  "profile_id": "example-lab",
+  "scope": "lab",
+  "version": 1,
+  "preferences": {
+    "voice": "active 'we' in Introduction and Discussion; passive in Methods when apparatus or procedure is the topic",
+    "transitions": "avoid sentence-initial 'Moreover' and 'Furthermore'; rely on given-to-new lexical links",
+    "abbreviations": "define in Abstract and again at first occurrence in the main text"
+  },
+  "conventions": {
+    "spelling": "en-US",
+    "citation_style": "parenthetical (Author, Year) unless the author is the grammatical subject",
+    "unit_spacing": "space between value and unit except % (e.g., 25 °C, 95%)",
+    "bilingual_first_mention": "Chinese term (English Term, ABBR) on first occurrence only in Chinese technical notes"
+  },
+  "languages": {
+    "zh": {
+      "genres": {
+        "technical-report": {
+          "preferences": {
+            "opening": "lead each major section with verification status and boundary conditions before design details",
+            "rules": "state completion criteria using observable signals (e.g., register flag cleared) rather than indirect negations"
+          }
+        }
+      }
+    },
+    "en": {
+      "genres": {
+        "methods": {
+          "preferences": {
+            "tense": "simple past for performed procedures; present tense for enduring equations and apparatus specs"
+          }
+        }
+      }
+    }
+  },
+  "glossary": {
+    "do_not_translate": [
+      "CAN-FD",
+      "BMS"
+    ],
+    "bilingual_terms": {
+      "荷电状态": "state of charge (SoC)",
+      "容积效率": "volumetric efficiency (VE)"
+    }
+  },
+  "exceptions": [
+    "Retain 'significant' when reporting a statistical test and 'robust' when naming the specific disturbance resisted.",
+    "Retain domain terms such as '闭环控制' or '门控' when they name the actual engineering or model mechanism.",
+    "Retain explicit negations that define a safety, diagnostic, or operational boundary."
+  ],
+  "evidence": [
+    {
+      "date": "2026-11-26",
+      "source": "lab-manuscript-2026",
+      "note": "Prefer passive in Methods, active 'we' in Discussion; remove sentence-initial 'Moreover'."
+    }
+  ]
+}
