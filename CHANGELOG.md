@@ -4,6 +4,7 @@
 
 ### 已完成
 
+- 更新 `academic-writing` 的编辑实践（`references/editorial-practice.md` 及中文镜像）：补充“保持克制、不加主观评价与多余点评”和“凝练但不过度压缩、保证自然可读”的要求与自查项。
 - 建立个人公开多 Skill 仓库结构，配置 `skills.sh.json`、自动校验脚本 `tools/validate_skills.py`、ZIP 打包脚本 `tools/package_skills.py`、MIT 许可证及 GitHub Actions 校验流程。
 - 新增 `academic-writing` 及其 1:1 中文镜像（`translations/zh-CN/academic-writing/`）：
   - 覆盖校对、润色、改写、中英互译、基于材料起草、只读审阅、技术笔记合并整理与作用域风格学习；

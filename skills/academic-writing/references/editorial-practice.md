@@ -21,7 +21,8 @@ Match the tone to the document's role before editing:
 | Papers, calculations, and formal reports | Journal manuscripts, theses, design calculations, test reports | Objective and precise: state boundary conditions, evidence, and conclusions clearly |
 | Notes, reviews, and summaries | Technical notes, study guides, comparisons, troubleshooting | Plain and readable: prioritize cause-effect, concrete comparisons, and clear engineering judgment |
 
-- Leave out slogans, lecturing, filler, and unnecessary repetition.
+- Stay restrained: do not insert editorial praise, unsolicited commentary, slogans, lecturing, filler, or unnecessary repetition.
+- Tighten prose without over-compressing it: say what is needed clearly and keep enough connective flow for comfortable reading, rather than terse telegram-style shorthand.
 - Do not impose an academic paper style on informal notes or practical engineering reports.
 
 ## 2. Structure and Flow
@@ -74,4 +75,5 @@ Check the finished text by whether a reader grasps it accurately in one pass:
 - Are technical terms consistent across sentences, with no unnecessary synonym rotation?
 - Are rules and conclusions stated directly, with reasons attached to any negative clarification?
 - Have promotional words, theatrical metaphors, narrator openings, and empty paragraph closers been removed without deleting domain terms or details?
+- Is the prose concise and readable without feeling over-compressed or padded with unsolicited commentary?
 - Were sound, clear sentences left alone rather than rewritten for the sake of editing?
